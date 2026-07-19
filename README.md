@@ -6,6 +6,9 @@ Face recognition door lock built with Raspberry Pi 3, Pi Camera NoIR, OpenCV LBP
 
 ## Overview
 
+![Front View](DSC_0221.JPG)
+![Back View](DSC_0222.JPG)
+
 This project was developed as a smart door lock prototype that can:
 
 - register an authorized user's face
@@ -55,7 +58,7 @@ Supporting files:
 
 ## Hardware Used
 
-![Hardware Diagram](HardwareDiagram.JPG)
+![Flowchart Diagram](FlowchartHardware.png)
 
 - Raspberry Pi 3
 - Pi Camera NoIR
@@ -68,6 +71,8 @@ Supporting files:
 - jumper wires and breadboard or terminal connections
 
 ## Wiring Summary
+
+![Wiring Diagram](HardwareDiagram.JPG)
 
 GPIO numbering in the code uses BCM mode.
 
