@@ -55,6 +55,8 @@ Supporting files:
 
 ## Hardware Used
 
+![Hardware Diagram](Screenshot 2025-11-20 105408.png)
+
 - Raspberry Pi 3
 - Pi Camera NoIR
 - 1-channel relay module
