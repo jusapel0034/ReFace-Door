@@ -55,7 +55,7 @@ Supporting files:
 
 ## Hardware Used
 
-![Hardware Diagram](HardwareDiagram.png)
+![Hardware Diagram](HardwareDiagram.JPG)
 
 - Raspberry Pi 3
 - Pi Camera NoIR
